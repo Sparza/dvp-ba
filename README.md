@@ -16,7 +16,7 @@ DELETE sparza.co/dvp-api/?id=1 Borra un registro específico con el parametro id
 
 Se pueden hacer pruebas en local:
 
-<li>Importando los datos de prueba en tickets.sql</li>
+<li>Importando los datos de prueba en tickets.sql (MySQL)</li>
 <li>Modificando las variables del archivo config.php con los datos de la Base de Datos, como sigue:</li>
 
 $db = [
